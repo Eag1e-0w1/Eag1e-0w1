@@ -15,6 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+<div align="center">
 [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-464646??style=flat-square&logo=matplotlib)](https://matplotlib.org/)
@@ -25,5 +26,5 @@
 [![Jupyter](https://img.shields.io/badge/-Jupyter-464646??style=flat-square&logo=Jupyter)](https://jupyter.org/)
 [![GIT](https://img.shields.io/badge/-GIT-464646??style=flat-square&logo=GIT)](https://git-scm.com/)
 [![MarkDown](https://img.shields.io/badge/-MarkDown-464646??style=flat-square&logo=MarkDown)](https://markdownguide.org/)
-
+</div>
 
