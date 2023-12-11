@@ -1,7 +1,44 @@
-<div id="header" align="center">
-  <img src=https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif width="100"/>
+## Привет! :wave: Меня зовут Алексей. Я увлекаюсь Data Science. 
+
+## Резюме: 
+
+<div>
+  <img src="https://api.iconify.design/logos/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/logos/jupyter.svg?width=256&height=256" title="jupyter"  alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/devicon/pandas.svg"  title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/devicon/scikitlearn.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/logos/seaborn-icon.svg" title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/devicon/matplotlib.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/devicon/git.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/logos/postgresql.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/skill-icons/markdown-dark.svg?width=256&height=256" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
 </div>
 
+  
+## Сертификаты: 
+
+- [Stepik Python](https://stepik.org/cert/2200929)  
+- [Stepik Основы статистики ч.1](https://stepik.org/cert/2202850)  
+- [Stepik Основы статистики ч.2](https://stepik.org/cert/2137337)  
+---
+
+
+### Проекты, выполненные в рамках Yandex.Practicum:  
+
+| № | Название | Описание |
+|---|----------|----------|
+| 1 | [Churn_forecasting](https://github.com/Eag1e-0w1/Churn_forecasting) | Задача бинарной классификации: прогнозирование оттока клиентов|
+
+### Проба пера: 
+| № | Название | Описание |
+|---|----------|----------|
+| 1 | [Translation_cards](https://github.com/Eag1e-0w1/Translation_cards) | Скрипт создающий карточки перевода из гугл переводчика для приложения SmartRepetition (IOS)| 
+
+
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/x4unLoM3hApc2Cw5kO/giphy.gif width="200"/>
+</div>
+<div>
 <div align='right'>
   <img src="https://komarev.com/ghpvc/?username=Eag1e-0w1&style=flat-square&color=blue" alt=""/>
 </div>
