@@ -1,6 +1,7 @@
-## Привет! :wave: Меня зовут Алексей. Я увлекаюсь Data Science. 
+### Привет! :wave: Меня зовут Алексей. Я увлекаюсь Data Science. 
 
-## Резюме: 
+
+### Резюме: 
 
 <div>
   <img src="https://api.iconify.design/logos/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -15,7 +16,7 @@
 </div>
 
   
-## Сертификаты: 
+### Сертификаты: 
 
 - [Stepik Python](https://stepik.org/cert/2200929)  
 - [Stepik Основы статистики ч.1](https://stepik.org/cert/2202850)  
@@ -38,7 +39,16 @@
 <div id="header" align="center">
   <img src=https://media.giphy.com/media/x4unLoM3hApc2Cw5kO/giphy.gif width="200"/>
 </div>
+
+### Социальные сети:
+<div id="badges">
+  <a href="https://www.facebook.com/profile.php?id=61554568890316">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+</div>
 <div>
 <div align='right'>
   <img src="https://komarev.com/ghpvc/?username=Eag1e-0w1&style=flat-square&color=blue" alt=""/>
 </div>
+
