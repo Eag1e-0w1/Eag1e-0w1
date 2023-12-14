@@ -1,7 +1,7 @@
-### Привет! :wave: Меня зовут Алексей. Я увлекаюсь Data Science. 
+#### print('Hello world!') :wave: I'm Alexey. I'm Data Scientist. 
 
 
-### Резюме: 
+#### Languaches and tools: 
 
 <div>
   <img src="https://api.iconify.design/logos/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -16,7 +16,7 @@
 </div>
 
   
-### Сертификаты: 
+### Sertificates: 
 
 - [Stepik Python](https://stepik.org/cert/2200929)  
 - [Stepik Основы статистики ч.1](https://stepik.org/cert/2202850)  
@@ -24,15 +24,15 @@
 ---
 
 
-### Проекты, выполненные в рамках Yandex.Practicum:  
+### Yandex.Practicum projects :  
 
-| № | Название | Описание |
+| № | Name | Description |
 |---|----------|----------|
 | 1 | [Churn_forecasting](https://github.com/Eag1e-0w1/Churn_forecasting) | Задача бинарной классификации: прогнозирование оттока клиентов|
 | 2 |[Car_price_prediction](https://github.com/Eag1e-0w1/Car_price_prediction) | Задача регрессии: прогнозирование стоимости подержанного автомобиля |
 
-### Проба пера: 
-| № | Название | Описание |
+### Personal projects: 
+| № | Name | Description |
 |---|----------|----------|
 | 1 | [Translation_cards](https://github.com/Eag1e-0w1/Translation_cards) | Скрипт создающий карточки перевода из гугл переводчика для приложения SmartRepetition (IOS)| 
 
@@ -41,7 +41,7 @@
   <img src=https://media.giphy.com/media/x4unLoM3hApc2Cw5kO/giphy.gif width="200"/>
 </div>
 
-### Социальные сети:
+### Social:
 <div id="badges">
   <a href="https://www.facebook.com/profile.php?id=61554568890316">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
