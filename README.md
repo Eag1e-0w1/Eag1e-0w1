@@ -1,4 +1,4 @@
-#### print('Hello world!') :wave: I'm Alexey. I'm Data Scientist. 
+#### :wave: Hello! I'm Alexey. And I'm going on an adventure!
 
 
 #### Languaches and tools: 
