@@ -1,8 +1,7 @@
 #### :wave: Hello! I'm Alexey. And I'm going on an adventure!
 
 
-#### Languaches and tools: 
-
+#### Stack: 
 <div>
   <img src="https://api.iconify.design/logos/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://api.iconify.design/logos/jupyter.svg?width=256&height=256" title="jupyter"  alt="jupyter" width="40" height="40"/>&nbsp;
@@ -28,7 +27,7 @@
 
 | № | Name | Description |
 |---|----------|----------|
-| 1 | [Churn_forecasting](https://github.com/Eag1e-0w1/Churn_forecasting) | Задача бинарной классификации: прогнозирование оттока клиентов|
+| 1 | [Churn_forecasting](https://github.com/Eag1e-0w1/churn_forecasting/) | Задача бинарной классификации: прогнозирование оттока клиентов|
 | 2 |[Car_price_prediction](https://github.com/Eag1e-0w1/Car_price_prediction) | Задача регрессии: прогнозирование стоимости подержанного автомобиля |
 
 #### Personal projects: 
