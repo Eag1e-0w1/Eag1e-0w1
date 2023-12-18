@@ -29,7 +29,7 @@
 |---|----------|----------|
 | 1 | [Churn_forecasting](https://github.com/Eag1e-0w1/churn_forecasting/) | Задача бинарной классификации: прогнозирование оттока клиентов|
 | 2 |[Car_price_prediction](https://github.com/Eag1e-0w1/car_price_prediction/) | Задача регрессии: прогнозирование стоимости подержанного автомобиля |
-| 3 |[borrowers_reliability](https://github.com/Eag1e-0w1/borrowers_reliability/) | Предобработка данных |
+| 3 |[Borrowers_reliability](https://github.com/Eag1e-0w1/borrowers_reliability/) | Предобработка данных |
 
 #### Personal projects: 
 | № | Name | Description |
