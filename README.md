@@ -34,7 +34,7 @@
 | № | Name | Description |
 |---|----------|----------|
 | 1 | [Translation_cards](https://github.com/Eag1e-0w1/Translation_cards) | Скрипт создающий карточки перевода из гугл переводчика для приложения SmartRepetition (IOS)| 
-| 2 | [Deals_dataframe](https://github.com/Eag1e-0w1/Deals_dataframe) | Создание датасета всех сделок из нескольких csv файлов |
+| 2 | [Share_research](https://github.com/Eag1e-0w1/share_research) | Создание датасета всех сделок из нескольких csv файлов |
 
 
 <div id="header" align="center">
