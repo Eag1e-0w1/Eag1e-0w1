@@ -1,6 +1,7 @@
 #### :wave: Hello! I'm Alexey. And I'm going on an adventure!
 
 
+
 #### Stack: 
 <div>
   <img src="https://api.iconify.design/logos/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -42,11 +43,7 @@
   <img src=https://media.giphy.com/media/x4unLoM3hApc2Cw5kO/giphy.gif width="200"/>
 </div>
 
-#### Social:
-<div id="badges">
-  <a href="https://www.facebook.com/profile.php?id=61554568890316">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
 
 </div>
 <div>
