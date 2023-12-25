@@ -16,7 +16,7 @@
 </div>
 
   
-#### Sertificates: 
+#### Certificates: 
 
 - [Stepik Python](https://stepik.org/cert/2200929)  
 - [Stepik Основы статистики ч.1](https://stepik.org/cert/2202850)  
