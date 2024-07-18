@@ -22,7 +22,8 @@
 
 - [Stepik Python](https://stepik.org/cert/2200929)  
 - [Stepik Основы статистики ч.1](https://stepik.org/cert/2202850)  
-- [Stepik Основы статистики ч.2](https://stepik.org/cert/2137337)  
+- [Stepik Основы статистики ч.2](https://stepik.org/cert/2137337)
+- [Stepik Машинное обучение](https://stepik.org/cert/2518278)
 ---
 
 
